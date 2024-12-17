@@ -1,0 +1,13 @@
+body{
+font-family:"Lucida Console", "Courier New", monospace;
+   height:100vh;
+   background-image:url('compute-ea4c57a4.png');
+   display:flex;
+   justify-content:center;
+   align-items:center;
+   background-size:cover;
+   flex-direction:column;
+    color:white;
+    background-position:center;
+    background-repeat:no-repeat;
+}
